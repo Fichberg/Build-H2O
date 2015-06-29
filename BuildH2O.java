@@ -62,7 +62,7 @@ public class BuildH2O
 
 	private static void use()
 	{
-		System.out.print("Incorrect number of arguments. Use:\n\n\tjava OneLaneBridge H O W\n\nWhere:\n");
+		System.out.print("Incorrect number of arguments. Use:\n\n\tjava BuildH2O H O W\n\nWhere:\n");
 		System.out.print("H is an integer representing the total number of Hydrogens.\n");
 		System.out.print("O is an integer representing the total number of Oxygens.\n");
 		System.out.print("W is an integer representing the total number of Water molecules that must be done.\n");
